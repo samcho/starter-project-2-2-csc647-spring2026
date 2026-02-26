@@ -1,8 +1,9 @@
-**Project 2 (Part 1): In the Interest of Time**
+**Project 2 (Part 2): In the Interest of Time**
 
 *Due: 3/5/2026 @ 12pm (noon)*
 
-<img width="237" height="212" alt="image" src="https://github.com/user-attachments/assets/488e6925-3cb3-4340-a2e2-4c4c999a3872" />
+![FAJ7fXgWUAIQKMd](https://github.com/user-attachments/assets/525429f8-4361-48cf-9cdc-c922eb2f30b5)
+
 
 **Topics**
   * NVIDIA Threads Architecture
